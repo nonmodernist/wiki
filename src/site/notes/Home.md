@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"noteIcon":"","updated":"2024-11-03T10:47:35.459-06:00"}
 ---
 
 Hello, world! On this site you will find information and resources, mostly related to the [[Courses/Courses\|courses]] I teach. It is built to be somewhere between a wiki and a knowledge base. That means the site is continually growing and expanding, and it is meant for both my reference and yours. It also means that some pages and sections are unfinished. 

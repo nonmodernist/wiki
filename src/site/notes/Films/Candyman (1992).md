@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/films/candyman-1992/","tags":["📼"]}
+{"dg-publish":true,"permalink":"/films/candyman-1992/","tags":["📼"],"noteIcon":"2","updated":"2024-11-03T11:28:05.527-06:00"}
 ---
 
 
-![candymantitle.png](/img/user/00%20assets/images/candymantitle.png)
+![candymantitle.png](/img/user/assets/images/candymantitle.png)
 
 ***Candyman*** is a 1992 horror film written and directed by Bernard Rose, and starring Virginia Madsen, Tony Todd, Xander Berkeley, Kasi Lemmons, and Vanessa E. Williams. Based on Clive Barker's short story "The Forbidden", the film follows a Chicago graduate student completing a thesis on urban legends and folklore, which leads her to the legend of the "Candyman", the ghost of an African-American artist and son of a slave who was murdered in the late 19th century for his relationship with the daughter of a wealthy white man.
 
@@ -18,7 +18,7 @@ Helen is smoking. In voiceover, a girl begins to tell a story, which she calls t
 
 On the campus of the University of Illinois—Chicago, Helen arrives to a large lecture hall where a class is in progress. A tweedy professor in his early 40s is asking students about alligators in the sewers. "These stories are modern oral folklore." (Why do people in movies always arrive to class just like 30 seconds before it ends?)
 
-![candyman-uic.png](/img/user/00%20assets/images/candyman-uic.png)
+![candyman-uic.png](/img/user/assets/images/candyman-uic.png)
 
 Helen, it turns out, is not a student in the course but rather the professor's wife, pursuing a graduate degree in semiotics. Suggestion of cheating husband.  
 
@@ -155,7 +155,7 @@ The character of Candyman can be seen as the kind of “Africanist presence” T
 
 Cabrini-Green as real place. 
 
-![candyman-cabrini.png](/img/user/00%20assets/images/candyman-cabrini.png)
+![candyman-cabrini.png](/img/user/assets/images/candyman-cabrini.png)
 
 #### Sacrifice zones
 Multiple characters mention that the cops rarely if ever respond to 911 calls from Cabrini-Green. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/folk-horror/"}
+{"dg-publish":true,"permalink":"/folk-horror/","hide":true,"noteIcon":"","updated":"2024-11-03T10:53:17.937-06:00"}
 ---
 
 **Folk horror** is a genre of horror film and horror fiction that uses elements of folklore to invoke fear and foreboding.

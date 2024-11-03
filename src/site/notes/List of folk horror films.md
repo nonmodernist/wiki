@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/list-of-folk-horror-films/","tags":["📋"]}
+{"dg-publish":true,"permalink":"/list-of-folk-horror-films/","hide":true,"tags":["📋"],"noteIcon":"","updated":"2024-11-03T10:52:42.278-06:00"}
 ---
 
 

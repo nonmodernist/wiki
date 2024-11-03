@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/films/la-llorona-1933/","tags":["📼"]}
+{"dg-publish":true,"permalink":"/films/la-llorona-1933/","tags":["📼"],"noteIcon":"","updated":"2024-11-03T10:35:24.642-06:00"}
 ---
 
-![llorona33title.png](/img/user/00%20assets/images/llorona33title.png)
+![llorona33title.png](/img/user/assets/images/llorona33title.png)
 
 ***La Llorona*** is a 1933 Mexican [[Folk horror\|Folk horror]] film directed by Ramon Peon. It was the first sound horror film made in Mexico, and also marks the first appearance of La Llorona onscreen. 
 
