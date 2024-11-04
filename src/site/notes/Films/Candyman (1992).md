@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/films/candyman-1992/","tags":["📼"],"updated":"2024-11-03T18:01:59.263-06:00"}
+{"dg-publish":true,"permalink":"/films/candyman-1992/","tags":["📼"],"updated":"2024-11-03T19:34:34.871-06:00"}
 ---
 
-> [!blank-container|float-right-small]
-> ![candymantitle.png](/img/user/assets/images/candymantitle.png)
-> <mark class='blue'>Opening title card</mark>
+![candymantitle.png](/img/user/assets/images/candymantitle.png)
 
 ***Candyman*** is a 1992 horror film written and directed by Bernard Rose, and starring Virginia Madsen, Tony Todd, Xander Berkeley, Kasi Lemmons, and Vanessa E. Williams. 
 
@@ -19,10 +17,9 @@ Smash cut to thousands of bees, creating an almost abstract composition that buz
 
 Helen is smoking. In voiceover, a girl begins to tell a story, which she calls the scariest one she's ever heard. It's the story of two suburban kids, which we see in flashback—the girl is babysitting and invites over a guy who is not her boyfriend. They are about to have sex, but instead the girl summons Candyman in the mirror and gets killed. The boy, Billy, got away but went crazy; the interviewee's sister's boyfriend knew him. 
 
-On the campus of the University of Illinois—Chicago, Helen arrives to a large lecture hall where a class is in progress. A tweedy professor in his early 40s is asking students about alligators in the sewers. "These stories are modern oral folklore." <mark class='purple'>(Why do people in movies always arrive to class just like 30 seconds before it ends?)</mark>
-> [!blank-container|float-right-small]
-> ![candyman-uic.png](/img/user/assets/images/candyman-uic.png)
-> <mark class='blue'>An overhead shot of UIC from the film</mark>
+On the campus of the University of Illinois—Chicago, Helen arrives to a large lecture hall where a class is in progress. A tweedy professor in his early 40s is asking students about alligators in the sewers. "These stories are modern oral folklore." (Why do people in movies always arrive to class just like 30 seconds before it ends?)
+
+![candyman-uic.png](/img/user/assets/images/candyman-uic.png)
 
 Helen, it turns out, is not a student in the course but rather the professor's wife, pursuing a graduate degree in semiotics. Suggestion of cheating husband.  
 
@@ -61,9 +58,8 @@ Later, Helen and Bernadette are at a fancy restaurant with Helen's husband and a
 Helen watches with a dramatic slash of light right over her eyes. Sounds of the scene being described begin to play in the background—screaming, thrashing, the buzzing of bees. 
 
 Smash cut back to Cabrini and the mural, which Helen has returned to photograph. She meets a boy in the hallway named Jake. Helen asks him about Ruthie Jean, but Jake says he can't say anything, "or Candyman will get me." He tells Helen she is crazy to walk into Cabrini on her own. Helen says Jake can just show her where Candyman is, unless he is too scared. This works; he starts leading her somewhere. 
-> [!blank-container|float-right-small]
-> ![candyman-cabrini.png](/img/user/assets/images/candyman-cabrini.png)
-> <mark class='blue'>Jake leads Helen through Cabrini-Green</mark>
+
+![candyman-cabrini.png](/img/user/assets/images/candyman-cabrini.png)
 
 In a desolate empty lot between the buildings, a pile of wooden furniture and other junk is heaped at least 20 feet in the air. Helen asks if someone is building a bonfire. Jake says it is "for the party."
 
@@ -169,13 +165,13 @@ Cabrini-Green as real place.
 #### Sacrifice zones
 Multiple characters mention that the cops rarely if ever respond to 911 calls from Cabrini-Green. 
 
+> [!quote] Candyman suggests that oral storytelling and by extension, urban legends, are valuable forms of historical memory, and that the process of historical amnesia will be apocalyptic.
+> — Kirsten Moana Thompson
+
 ### Ethnography and folklore studies
 *Candyman*'s main character, Helen, is a grad student writing a thesis on urban legends and folklore, who comes to Cabrini-Green as an outsider to collect stories. This parallels both the real history of folklore studies and the plots of other folk horror films like *[[Lokis A Manuscript of Professor Wittembach\|Lokis: A Manuscript of Professor Wittembach]]*. 
 
 John Cussans from *Woodlands Dark*: "What we often find... the central protagonist is someone who's studying or researching or is educated, and they don't really believe in it, but they're deeply interested in it, and their fascination becomes part of their undoing."[^1]
-
-> [!quote] Candyman suggests that oral storytelling and by extension, urban legends, are valuable forms of historical memory, and that the process of historical amnesia will be apocalyptic.
-> — Kirsten Moana Thompson
 
 
 > [!example] Student-generated discussion questions

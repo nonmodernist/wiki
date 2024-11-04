@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"updated":"2024-11-03T13:40:02.723-06:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"updated":"2024-11-03T19:32:35.551-06:00"}
 ---
 
 # Welcome
-> [!info|float-right-small] How to navigate this site
-> There are two main hubs for finding your way around on this site: [[Courses/Courses\|courses]] and [[Topics\|topics]].
 
 Hello, world! On this site you will find information and resources, mostly related to the [[Courses/Courses\|courses]] I teach. It is built to be somewhere between a wiki and a knowledge base. That means the site is continually growing and expanding, and it is intended for both my reference and yours. It also means that some pages and sections are unfinished. 
 
 The site includes material gathered from multiple sources, including [[For current students\|student]] work shared with permission. I do my best to cite everything accurately. 
+
+> [!info] How to navigate this site
+> There are two main hubs for finding your way around on this site: [[Courses/Courses\|courses]] and [[Topics\|topics]].
 
 > [!idea] For current students
 > Check [[For current students\|this page]] for tips and resources.
