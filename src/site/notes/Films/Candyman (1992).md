@@ -1,24 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/films/candyman-1992/","tags":["📼"],"noteIcon":"2","updated":"2024-11-03T11:28:05.527-06:00"}
+{"dg-publish":true,"permalink":"/films/candyman-1992/","tags":["📼"],"noteIcon":"2","updated":"2024-11-03T18:01:59.263-06:00"}
 ---
 
+> [!blank-container|float-right-small]
+> ![candymantitle.png](/img/user/assets/images/candymantitle.png)
+> <mark class='blue'>Opening title card</mark>
 
-![candymantitle.png](/img/user/assets/images/candymantitle.png)
+***Candyman*** is a 1992 horror film written and directed by Bernard Rose, and starring Virginia Madsen, Tony Todd, Xander Berkeley, Kasi Lemmons, and Vanessa E. Williams. 
 
-***Candyman*** is a 1992 horror film written and directed by Bernard Rose, and starring Virginia Madsen, Tony Todd, Xander Berkeley, Kasi Lemmons, and Vanessa E. Williams. Based on Clive Barker's short story "The Forbidden", the film follows a Chicago graduate student completing a thesis on urban legends and folklore, which leads her to the legend of the "Candyman", the ghost of an African-American artist and son of a slave who was murdered in the late 19th century for his relationship with the daughter of a wealthy white man.
+Based on Clive Barker's short story "The Forbidden", the film follows a Chicago graduate student completing a thesis on urban legends and folklore, which leads her to the legend of the "Candyman", the ghost of an African-American artist and son of a slave who was murdered in the late 19th century for his relationship with the daughter of a wealthy white man.
 
-With its narrative focus on folklore being collected by an outsider who has come into an isolated community, *Candyman* can be characterized as a [[Folk horror\|Folk horror]] film. Kier-La Janisse, in her documentary *Woodlands Dark and Days Bewitched*, explains, "Typically we would reserve the term folk horror for stories that take place in rural environments, but I think a strong case can be made for *Candyman* as a folk horror film because of its liminality, the pyscho-geographical pull of the Cabrini-Green housing project itself, and how that connects back to the Reconstruction-era folktale."[^1]  
+With its narrative focus on folklore being collected by an outsider who has come into an isolated community, *Candyman* can be characterized as a [[Folk horror\|folk horror]] film. Kier-La Janisse, in her documentary *Woodlands Dark and Days Bewitched*, explains, "Typically we would reserve the term folk horror for stories that take place in rural environments, but I think a strong case can be made for *Candyman* as a folk horror film because of its liminality, the pyscho-geographical pull of the Cabrini-Green housing project itself, and how that connects back to the Reconstruction-era folktale."[^1]  
 
-## Plot synopsis
+## Plot
 The film opens with an overhead shot of urban Chicago, titles superimposed over top, and a Phillip Glass score that one might describe as "stabbing." The camera travels laterally, following an eight lane highway through an urban environment almost totally devoid of greenery. Grey concrete dominates the frame.
 
 Smash cut to thousands of bees, creating an almost abstract composition that buzzes and seethes with movement. A deep voice, mixed to sound incredibly close to us, begins to speak: "They will say that I have shed innocent blood. What's blood for, if not for shedding?" 
 
-Helen is smoking. In voiceover, a girl begins to tell a story, which she calls the scariest one she's ever heard. It's the story of two suburban kids. Billy got away but went crazy; the interviewee's sister's boyfriend knew him. 
+Helen is smoking. In voiceover, a girl begins to tell a story, which she calls the scariest one she's ever heard. It's the story of two suburban kids, which we see in flashback—the girl is babysitting and invites over a guy who is not her boyfriend. They are about to have sex, but instead the girl summons Candyman in the mirror and gets killed. The boy, Billy, got away but went crazy; the interviewee's sister's boyfriend knew him. 
 
-On the campus of the University of Illinois—Chicago, Helen arrives to a large lecture hall where a class is in progress. A tweedy professor in his early 40s is asking students about alligators in the sewers. "These stories are modern oral folklore." (Why do people in movies always arrive to class just like 30 seconds before it ends?)
-
-![candyman-uic.png](/img/user/assets/images/candyman-uic.png)
+On the campus of the University of Illinois—Chicago, Helen arrives to a large lecture hall where a class is in progress. A tweedy professor in his early 40s is asking students about alligators in the sewers. "These stories are modern oral folklore." <mark class='purple'>(Why do people in movies always arrive to class just like 30 seconds before it ends?)</mark>
+> [!blank-container|float-right-small]
+> ![candyman-uic.png](/img/user/assets/images/candyman-uic.png)
+> <mark class='blue'>An overhead shot of UIC from the film</mark>
 
 Helen, it turns out, is not a student in the course but rather the professor's wife, pursuing a graduate degree in semiotics. Suggestion of cheating husband.  
 
@@ -57,6 +61,9 @@ Later, Helen and Bernadette are at a fancy restaurant with Helen's husband and a
 Helen watches with a dramatic slash of light right over her eyes. Sounds of the scene being described begin to play in the background—screaming, thrashing, the buzzing of bees. 
 
 Smash cut back to Cabrini and the mural, which Helen has returned to photograph. She meets a boy in the hallway named Jake. Helen asks him about Ruthie Jean, but Jake says he can't say anything, "or Candyman will get me." He tells Helen she is crazy to walk into Cabrini on her own. Helen says Jake can just show her where Candyman is, unless he is too scared. This works; he starts leading her somewhere. 
+> [!blank-container|float-right-small]
+> ![candyman-cabrini.png](/img/user/assets/images/candyman-cabrini.png)
+> <mark class='blue'>Jake leads Helen through Cabrini-Green</mark>
 
 In a desolate empty lot between the buildings, a pile of wooden furniture and other junk is heaped at least 20 feet in the air. Helen asks if someone is building a bonfire. Jake says it is "for the party."
 
@@ -150,30 +157,32 @@ A mural of Helen, dressed in white and wreathed in flame, has appeared on a wall
 
 
 ## Themes
+
+> [!warning] Work in progress
+> The sections below are currently unfinished.
+
 ### Racialized identities and communities 
 The character of Candyman can be seen as the kind of “Africanist presence” Toni Morrison writes about in *Playing in the Dark*—that is, a fictional African-American character created by a white writer to embody "a fabricated brew of darkness, otherness, alarm, and desire that is uniquely American."[^2] 
 
 Cabrini-Green as real place. 
 
-![candyman-cabrini.png](/img/user/assets/images/candyman-cabrini.png)
-
 #### Sacrifice zones
 Multiple characters mention that the cops rarely if ever respond to 911 calls from Cabrini-Green. 
 
 ### Ethnography and folklore studies
-*Candyman*'s main character, Helen, is a grad student writing a thesis on urban legends and folklore, who comes to Cabrini-Green as an outsider to collect stories. This parallels both the real history of folklore studies and the plots of other folk horror films like *[[Lokis: A Manuscript of Professor Wittembach\|Lokis: A Manuscript of Professor Wittembach]]*. 
+*Candyman*'s main character, Helen, is a grad student writing a thesis on urban legends and folklore, who comes to Cabrini-Green as an outsider to collect stories. This parallels both the real history of folklore studies and the plots of other folk horror films like *[[Lokis A Manuscript of Professor Wittembach\|Lokis: A Manuscript of Professor Wittembach]]*. 
 
 John Cussans from *Woodlands Dark*: "What we often find... the central protagonist is someone who's studying or researching or is educated, and they don't really believe in it, but they're deeply interested in it, and their fascination becomes part of their undoing."[^1]
 
- >“Candyman suggests that oral storytelling and by extension, urban legends, are valuable forms of historical memory, and that the process of historical amnesia will be apocalyptic.” 
- > 
-  – Kirsten Moana Thompson
+> [!quote] Candyman suggests that oral storytelling and by extension, urban legends, are valuable forms of historical memory, and that the process of historical amnesia will be apocalyptic.
+> — Kirsten Moana Thompson
 
 
-## Student-generated discussion questions
-- *Candyman* has been criticized because of its white director and for the use of a white protagonist in a movie that is centered around issues surrounding the deeply marginalized black community. How does this film use Africanist elements through the characters in this film?
-- Professor Lyle says that campfire/bedtime stories are modern oral folklore and that “they are the un-self-conscious reflection of the fears of urban society.” What do you believe he means by that? Are there examples of that in this film? What is an example of modern oral folklore of today?
-- In folk horror, supernatural elements could be linked to unresolved histories, trauma, or sins of a community. How is the figure of Candyman used as a supernatural embodiment of historical injustices? Can Candyman be seen as a “folk avenger” whose presence serves as a reminder of generational pain and societal neglect?
+> [!example] Student-generated discussion questions
+> The following questions were written by students in [[Courses/Genre in Film\|Genre in Film]] during fall 2024.
+> - *Candyman* has been criticized because of its white director and for the use of a white protagonist in a movie that is centered around issues surrounding the deeply marginalized black community. How does this film use Africanist elements through the characters in this film?
+> - Professor Lyle says that campfire/bedtime stories are modern oral folklore and that “they are the un-self-conscious reflection of the fears of urban society.” What do you believe he means by that? Are there examples of that in this film? What is an example of modern oral folklore of today?
+> - In [[Folk horror\|folk horror]], supernatural elements could be linked to unresolved histories, trauma, or sins of a community. How is the figure of Candyman used as a supernatural embodiment of historical injustices? Can Candyman be seen as a “folk avenger” whose presence serves as a reminder of generational pain and societal neglect?
 
 ## Sequels
 The film was followed by three sequels: *Candyman: Farewell to the Flesh* (1995), *Candyman: Day of the Dead* (1999), and *Candyman* (2021).
@@ -182,7 +191,7 @@ The film was followed by three sequels: *Candyman: Farewell to the Flesh* (1995)
 - Towlson, Jon. [*Candyman*](https://doi.org/10.2307/j.ctv13840m4). Liverpool UP, 2018.
 
 
-
-[^1]: *Woodlands Dark and Days Bewitched: A History of Folk Horror*. Directed by Kier-La Janisse. Severin Films, 2021.
+## References
+[^1]: Janisse, Kier-La, dir. *Woodlands Dark and Days Bewitched: A History of Folk Horror*. Severin Films, 2021.
 [^2]: Morrison, Toni. *Playing in the Dark*. Publisher, year.
 [^3]: 

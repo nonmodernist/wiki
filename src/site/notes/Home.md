@@ -1,19 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"noteIcon":"","updated":"2024-11-03T10:47:35.459-06:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"noteIcon":"","updated":"2024-11-03T13:40:02.723-06:00"}
 ---
 
-Hello, world! On this site you will find information and resources, mostly related to the [[Courses/Courses\|courses]] I teach. It is built to be somewhere between a wiki and a knowledge base. That means the site is continually growing and expanding, and it is meant for both my reference and yours. It also means that some pages and sections are unfinished. 
+# Welcome
+> [!info|float-right-small] How to navigate this site
+> There are two main hubs for finding your way around on this site: [[Courses/Courses\|courses]] and [[Topics\|topics]].
 
+Hello, world! On this site you will find information and resources, mostly related to the [[Courses/Courses\|courses]] I teach. It is built to be somewhere between a wiki and a knowledge base. That means the site is continually growing and expanding, and it is intended for both my reference and yours. It also means that some pages and sections are unfinished. 
 
-> [!question] Looking for a specific course?
-> Check the [[Courses/Courses\|courses]] page. 
+The site includes material gathered from multiple sources, including [[For current students\|student]] work shared with permission. I do my best to cite everything accurately. 
 
+> [!idea] For current students
+> Check [[For current students\|this page]] for tips and resources.
 
-> [!idea] Want to browse by topic?
-> Try the [[Topics\|topics]] page.
+---
 
-
-> [!info] About me
+> [!tldr] About me
 > Hi, I’m Dr. Edwards! I teach writing, film, and American literature in the English department at TCU.
 >
 > I’m originally from St. Augustine, FL. I went to an arts magnet for high school, where I majored in theater for 3 years and creative writing for my final year. 
@@ -23,6 +25,4 @@ Hello, world! On this site you will find information and resources, mostly relat
 > I eventually got my MA in English at Villanova University and my PhD in English at the University of Georgia. My dissertation was about fans and fanfiction from 1890-1950, which meant I spent a lot of time reading about women in the 1890s who were really into Walt Whitman. In 2023, I published an updated version of my dissertation as a [book](https://lsupress.org/9780807180273/before-fanfiction/). 
 >
 > I have lived in Florida; Brooklyn; Atlanta; Philadelphia; Athens, GA; and now Fort Worth.
-
- 
 

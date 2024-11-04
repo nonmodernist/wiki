@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/films/la-llorona-1933/","tags":["📼"],"noteIcon":"","updated":"2024-11-03T10:35:24.642-06:00"}
+{"dg-publish":true,"permalink":"/films/la-llorona-1933/","tags":["📼"],"noteIcon":"2","updated":"2024-11-03T11:53:47.938-06:00"}
 ---
 
 ![llorona33title.png](/img/user/assets/images/llorona33title.png)
@@ -7,6 +7,8 @@
 ***La Llorona*** is a 1933 Mexican [[Folk horror\|Folk horror]] film directed by Ramon Peon. It was the first sound horror film made in Mexico, and also marks the first appearance of La Llorona onscreen. 
 
 ## Plot synopsis
+According to Wikipedia: [^1]
+
 In 20th century Mexico, a man dies of a heart attack after hearing the wailing of a woman. During the autopsy, many students of Dr. Ricardo de Acuña speculate that there could be some supernatural involvement with the man's death, while Ricardo simply brushes it off as natural causes.
 
 Later, at his son Juanito's fourth birthday party, Ricardo and his wife Ana Maria relish in their happy lifestyle, while the butler Mario takes the fourteenth seat at the kids table to beat out a superstition, much to Juanito's grandfather Don Fernando's embarrassment and scolding. After the party, Fernando takes Ricardo aside into his study to tell him news that he believes the new father should know. Fernando talks about how his first born son was killed at four years old, stabbed to death. He then tells how their family ancestries are connected that of Hernán Cortés, and are therefore cursed. While he discuss this, a hooded figure wearing a strange ring watches them from a hidden passage. Fernando brandishes a large book to provide proof for his claims, which tells a story from the Elizabethan era, and how a previous member of the Acuña had a hand in the curse of the Cortés lineage.
@@ -38,3 +40,4 @@ With this revealed, Ricardo and the police open the passage the figure escaped t
 - tk
 
 ## References
+[^1]: "La Llorona (1933 film)." [Wikipedia](https://en.wikipedia.org/wiki/La_Llorona_(1933_film)). 
