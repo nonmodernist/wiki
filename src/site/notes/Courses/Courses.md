@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/courses/courses/","hide":true,"noteIcon":"","updated":"2024-11-03T14:09:24.149-06:00"}
+{"dg-publish":true,"permalink":"/courses/courses/","hide":true,"updated":"2024-11-03T14:09:24.149-06:00"}
 ---
 
 

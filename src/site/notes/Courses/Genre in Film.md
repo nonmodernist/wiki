@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/courses/genre-in-film/","tags":["📓"],"noteIcon":"1","updated":"2024-11-03T14:03:46.322-06:00"}
+{"dg-publish":true,"permalink":"/courses/genre-in-film/","tags":["📓"],"updated":"2024-11-03T14:03:46.322-06:00"}
 ---
 
 > [!INFO|float-right-medium] Catalog description

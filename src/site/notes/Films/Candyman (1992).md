@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/films/candyman-1992/","tags":["📼"],"noteIcon":"2","updated":"2024-11-03T18:01:59.263-06:00"}
+{"dg-publish":true,"permalink":"/films/candyman-1992/","tags":["📼"],"updated":"2024-11-03T18:01:59.263-06:00"}
 ---
 
 > [!blank-container|float-right-small]

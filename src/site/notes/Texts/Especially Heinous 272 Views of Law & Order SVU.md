@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts/especially-heinous-272-views-of-law-and-order-svu/","tags":["📕"],"noteIcon":"3","updated":"2024-11-03T12:21:20.797-06:00"}
+{"dg-publish":true,"permalink":"/texts/especially-heinous-272-views-of-law-and-order-svu/","tags":["📕"],"updated":"2024-11-03T12:21:20.797-06:00"}
 ---
 
 **"Especially Heinous: 272 Views of Law & Order SVU"** by Carmen Maria Machado is a surreal, fictional retelling of 272 episodes of the television show *Law & Order: SVU*. Each episode summary is written in a dark, poetic, and often absurd style, blending horror and the supernatural with the mundane details of the detectives' lives. Machado creates a distorted version of the show’s narrative, where familiar characters—Detectives Benson and Stabler—experience haunting, nightmarish episodes.

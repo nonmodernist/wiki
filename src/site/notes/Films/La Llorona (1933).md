@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/films/la-llorona-1933/","tags":["📼"],"noteIcon":"2","updated":"2024-11-03T11:53:47.938-06:00"}
+{"dg-publish":true,"permalink":"/films/la-llorona-1933/","tags":["📼"],"updated":"2024-11-03T18:42:51.434-06:00"}
 ---
 
-![llorona33title.png](/img/user/assets/images/llorona33title.png)
+![llorona33title.png|right|250](/img/user/assets/images/llorona33title.png)***La Llorona*** is a 1933 Mexican [[Folk horror\|Folk horror]] film directed by Ramon Peon. It was the first sound horror film made in Mexico, and also marks the first appearance of La Llorona onscreen. 
 
-***La Llorona*** is a 1933 Mexican [[Folk horror\|Folk horror]] film directed by Ramon Peon. It was the first sound horror film made in Mexico, and also marks the first appearance of La Llorona onscreen. 
 
 ## Plot synopsis
-According to Wikipedia: [^1]
+According to Wikipedia:[^1]
 
 In 20th century Mexico, a man dies of a heart attack after hearing the wailing of a woman. During the autopsy, many students of Dr. Ricardo de Acuña speculate that there could be some supernatural involvement with the man's death, while Ricardo simply brushes it off as natural causes.
 
