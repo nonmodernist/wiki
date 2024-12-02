@@ -52,8 +52,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
             <div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
             {%- endif -%}
             {%- if author.name -%}
-            <div> <span>{{author.name}}</span></div>
-            {%- endif -%}
+            <div><i icon-name="user-pen"></i> <span class="author">{{author.name}}</span></div>
           </div>
           {%- endif -%}
         </div>
