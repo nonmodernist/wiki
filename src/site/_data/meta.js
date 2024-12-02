@@ -69,8 +69,8 @@ module.exports = async (data) => {
     siteName: process.env.SITE_NAME_HEADER || "Digital Garden",
     mainLanguage: process.env.SITE_MAIN_LANGUAGE || "en",
     siteBaseUrl: baseUrl,
-    author:
-      name: "Fake Person"
+    author: {
+      name: "Fake Person" },
     styleSettingsCss,
     buildDate: new Date(),
   };
