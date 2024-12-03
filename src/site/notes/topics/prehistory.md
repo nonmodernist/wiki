@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Before moving pictures","permalink":"/topics/prehistory/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T10:39:27.556-06:00","updated":"2024-12-02T21:38:33.666-06:00"}
+{"dg-publish":true,"title":"Before moving pictures","permalink":"/topics/prehistory/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T10:39:27.556-06:00","updated":"2024-12-03T11:49:38.008-06:00"}
 ---
 
 
@@ -30,15 +30,21 @@ In 1838, Louis Daguerre created an image that is widely thought to be the [first
 
 Women also experimented with photography from its earliest era. The first known photograph by a woman is an image of a leaf, taken in 1839 by Sarah Anne Bright.[^3] Below are some examples of early photographs taken by women.
 
+![womensphotos.png|Four images aligned in a row showing a leaf, algae, a castle, and the ruins of a church](/img/user/attachments/womensphotos.png)
+***From left to right: Sarah Anne Bright's Quillan Leaf (1839); Anna Atkins's photogram of algae (1843); Franziska Möllinger's daguerreotype of Thun Castle (c. 1844); Genevieve Elisabeth Disdéri's interior of St. Mathieu (1869)***
+
   [^3]: [Timeline of women in photography](https://en.wikipedia.org/wiki/Timeline_of_women_in_photography). Wikipedia.
 
-In the United States, portrait photography became especially popular, leading to portrait studios in every city. Augustus Washington, a free person of color born in New Jersey, opened his own photography studio in Hartford, Connecticut, in 1846. He took the first photographs of his fellow abolitionist John Brown in 1846 or 1847.
+In the United States, portrait photography became especially popular, leading to portrait studios in every city. Augustus Washington, a free person of color born in New Jersey, opened his own photography studio in Hartford, Connecticut, in 1846. He took the first photographs of his fellow abolitionist [[John Brown\|John Brown]] in 1846 or 1847.
 
 In the 1870s, photographer Eadweard Muybridge was hired by Leland Stanford to photograph a horse. Muybridge spent most of the decade working out how to expose an image fast enough to capture a galloping horse.[^4] By 1878, with the help of some railroad engineers, Muybridge devised a way to take not just one but a sequence of photographs of a moving subject.
 
 [^4]: Rebecca Solnit. *River of Shadows: Eadweard Muybridge and the Technological Wild West*. Viking, 2003.
 
-Muybridge spent another 10 years photographing animals and humans in motion. He also invented the zoopraxiscope (mentioned above) to demonstrate moving illustrations based on his photographs. Because the zoopraxiscope caused image distortion when projected, the photographs had to be recreated as illustrations that compensated for this foreshortening effect.
+Muybridge spent another 10 years photographing animals and humans in motion. He also invented the [[topics/prehistory#🔮 Optical toys\|zoopraxiscope]] to demonstrate moving illustrations based on his photographs. Because the zoopraxiscope caused image distortion when projected, the photographs had to be recreated as illustrations that compensated for this foreshortening effect.
+
+![muybridge.gif|an animated gif of a horse being ridden by a jockey](/img/user/attachments/muybridge.gif)
+***An animated gif created from a series of still images taken by Muybridge in 1887.***
 
 Meanwhile, in 1882, Étienne-Jules Marey devised a means of taking 12 photographs per second, using a mechanism that looked like a gun. He was soon able to push this up to 30 frames per second. Unlike Muybridge's motion studies, which used separate cameras to photograph onto separate plates, Marey's use of a single camera allowed him to expose multiple images on the same glass plate or strip of photographic paper.
 

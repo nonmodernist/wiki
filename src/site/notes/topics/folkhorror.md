@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Folk horror","permalink":"/topics/folkhorror/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T20:49:07.649-06:00","updated":"2024-12-02T21:41:36.188-06:00"}
+{"dg-publish":true,"title":"Folk horror","permalink":"/topics/folkhorror/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T20:49:07.649-06:00","updated":"2024-12-03T11:33:25.815-06:00"}
 ---
 
 **Folk horror** is a genre of film and fiction that uses elements of folklore to invoke fear and foreboding.
@@ -27,7 +27,7 @@ Folk horror stories often take place in rural communities and locations, such as
 [^1]: For example, in *The White Reindeer* (1952, Finland), *Satan's Feats in the Village of Leva-e-Traz* (1967, Brazil), *Leptirica* (1973, Yugoslavia), *The Dark Secret of Harvest Home* (1978, US), *The Witch* (2015, US).
 [^2]: *The Wailing* (2016, South Korea), *When Evil Lurks* (2023, Argentina).
 [^3]: *Crowhaven Farm* (1970, US), *Blood on Satan's Claw* (1971, UK), *Children of the Corn* (1984, US), *A Field in England* (2013, UK).
-[^4]: Kuroneko (1968, Japan), Eyes of Fire (1983, US), The Enchanted (1984), The Blair Witch Project (1999, US), Roh (2019, Malaysia).
+[^4]: *Kuroneko* (1968, Japan), *Eyes of Fire* (1983, US), *The Enchanted* (1984), *The Blair Witch Project* (1999, US), *Roh* (2019, Malaysia).
 [^5]: *The Wicker Man* (1972, UK), *Io Island* (1977, South Korea).
 
 Films like *Lokis: A Manuscript of Professor Wittembach* (1970, Poland), *Let's Scare Jessica to Death* (1971, US), *Ganja & Hess* (1973, US), *The Ash Tree* (1975, UK), *The Rites of May* (1976, Philippines), and *La Llorona* (2019, Guatemala) locate their action primarily within a **large, isolated house** that operates as an outpost on the edge of a rural locale.
@@ -44,9 +44,9 @@ Folk horror's focus on rurality connects to the 19th-century origins of folklore
 
 Rural and isolated communities are thrown into relief by the arrival of an **outsider**[^7] or the presence of a **skeptic**.[^8] Sometimes this outsider is literally an **ethnographer** collecting folklore from the community,[^9] or an **archaeologist** or other academic studying ancient sites.[^10]
 
-[^7]: Robin Redbreast (1970, UK), The Wicker Man (1972, UK), Children of the Corn (1984, US), Clearcut (1991, Canada).
+[^7]: *Robin Redbreast* (1970, UK), *The Wicker Man* (1972, UK), *Children of the Corn* (1984, US), *Clearcut* (1991, Canada).
 [^8]: *Night of the Demon* (1957, UK), *Night of the Eagle* (1962, UK) *Whistle and I'll Come to You* (1968, UK).
-[^9]: *The City of the Dead* (1960, UK), *Lokis* (1970, Poland), *The Savage Hunt of King Stakh* (1979, USSR), Candyman (1992, US), *The Medium* (2021, Thailand).
+[^9]: *The City of the Dead* (1960, UK), *Lokis* (1970, Poland), *The Savage Hunt of King Stakh* (1979, USSR), [[candyman\|Candyman]] (1992, US), *The Medium* (2021, Thailand).
 [^10]: *The Sign of Death* (1939, Mexico), *A Warning to the Curious* (1972, UK), *Children of the Stones* (1977, UK), *The Dreaming* (1988, Australia).
 
 Dr. Dejan Ognjanovic points out that the trope of the outsider coming into a folk community is more common in Western or Anglicized folk horror. In Slavic folk horror, he argues, “someone is already immersed in this value system, and whatever happens in this plot arises from within.”[^11]
