@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"dg-hide":true,"title":"Candyman (1992)","permalink":"/candyman/","hide":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T15:23:15.789-06:00","updated":"2024-12-02T21:23:04.023-06:00"}
+{"dg-publish":true,"dg-hide":true,"title":"Candyman (1992)","permalink":"/candyman/","hide":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T15:23:15.789-06:00","updated":"2024-12-03T11:11:43.236-06:00"}
 ---
 
 > [!warning] Warning
 > This page is actively being worked on. Pardon the mess.
 
 *Candyman* is a 1992 horror film written and directed by Bernard Rose, and starring Virginia Madsen, Tony Todd, Xander Berkeley, Kasi Lemmons, and Vanessa E. Williams.
+
+![candymantitle.png|The film's iconic title screen](/img/user/attachments/candymantitle.png)
+
 
 Based on Clive Barker's short story "The Forbidden", the film follows a Chicago graduate student completing a thesis on urban legends and folklore, which leads her to the legend of the "Candyman", the ghost of an African-American artist and son of a slave who was murdered in the late 19th century for his relationship with the daughter of a wealthy white man.
 
