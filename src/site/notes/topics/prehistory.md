@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Before moving pictures","permalink":"/topics/prehistory/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T10:39:27.556-06:00","updated":"2024-12-03T11:49:38.008-06:00"}
+{"dg-publish":true,"title":"Before moving pictures","permalink":"/topics/prehistory/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T10:39:27.556-06:00","updated":"2024-12-03T11:52:56.267-06:00"}
 ---
 
 
@@ -30,7 +30,7 @@ In 1838, Louis Daguerre created an image that is widely thought to be the [first
 
 Women also experimented with photography from its earliest era. The first known photograph by a woman is an image of a leaf, taken in 1839 by Sarah Anne Bright.[^3] Below are some examples of early photographs taken by women.
 
-![womensphotos.png|Four images aligned in a row showing a leaf, algae, a castle, and the ruins of a church](/img/user/attachments/womensphotos.png)
+![womensphotos.png](/img/user/attachments/womensphotos.png)
 ***From left to right: Sarah Anne Bright's Quillan Leaf (1839); Anna Atkins's photogram of algae (1843); Franziska Möllinger's daguerreotype of Thun Castle (c. 1844); Genevieve Elisabeth Disdéri's interior of St. Mathieu (1869)***
 
   [^3]: [Timeline of women in photography](https://en.wikipedia.org/wiki/Timeline_of_women_in_photography). Wikipedia.
@@ -43,8 +43,8 @@ In the 1870s, photographer Eadweard Muybridge was hired by Leland Stanford to ph
 
 Muybridge spent another 10 years photographing animals and humans in motion. He also invented the [[topics/prehistory#🔮 Optical toys\|zoopraxiscope]] to demonstrate moving illustrations based on his photographs. Because the zoopraxiscope caused image distortion when projected, the photographs had to be recreated as illustrations that compensated for this foreshortening effect.
 
-![muybridge.gif|an animated gif of a horse being ridden by a jockey](/img/user/attachments/muybridge.gif)
-***An animated gif created from a series of still images taken by Muybridge in 1887.***
+![muybridge.gif](/img/user/attachments/muybridge.gif)
+***An animated gif created from a series of still images taken by Muybridge in 1887. A black jockey rides a black horse.***
 
 Meanwhile, in 1882, Étienne-Jules Marey devised a means of taking 12 photographs per second, using a mechanism that looked like a gun. He was soon able to push this up to 30 frames per second. Unlike Muybridge's motion studies, which used separate cameras to photograph onto separate plates, Marey's use of a single camera allowed him to expose multiple images on the same glass plate or strip of photographic paper.
 
