@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Before moving pictures","permalink":"/topics/prehistory/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T10:39:27.556-06:00","updated":"2024-12-02T19:22:24.732-06:00"}
+{"dg-publish":true,"title":"Before moving pictures","permalink":"/topics/prehistory/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T10:39:27.556-06:00","updated":"2024-12-02T20:32:32.104-06:00"}
 ---
 
 
@@ -24,9 +24,9 @@ Also known as “philosophical toys,” these objects represent some of the earl
 
 The possibility for photography rests on two combined principles: the ability of an image to be projected via a [camera obscura](https://en.wikipedia.org/wiki/Camera_obscura) and the fact that certain materials change when they are exposed to light. In the early 19th century, artists and inventors worked to perfect the process of combining these principles to create photographic images.
 
-The [oldest surviving photographic image](https://www.hrc.utexas.edu/niepce-heliograph/ ) was created by Joseph Nicéphore Niépce in 1827. It shows a view of buildings and countryside, taken from a high window.
+The [oldest surviving photographic image](https://www.hrc.utexas.edu/niepce-heliograph/) was created by Joseph Nicéphore Niépce in 1827. It shows a view of buildings and countryside, taken from a high window.
 
-In 1838, Louis Daguerre created an image that is widely thought to be the [first photograph containing people](https://en.wikipedia.org/wiki/Boulevard_du_Temple_(photograph). However, the image took so long to expose that only two figures who stood still can be seen.
+In 1838, Louis Daguerre created an image that is widely thought to be the [first photograph containing people](https://en.wikipedia.org/wiki/Boulevard_du_Temple_(photograph)). However, the image took so long to expose that only two figures who stood still can be seen.
 
 Women also experimented with photography from its earliest era. The first known photograph by a woman is an image of a leaf, taken in 1839 by Sarah Anne Bright.[^3] Below are some examples of early photographs taken by women.
 
@@ -57,3 +57,5 @@ In the 1870s and 1880s, Thomas Edison and other inventors worked out various way
 ----
 
 By the late 1880s, all of the major components necessary for the invention of moving pictures were in place.
+
+***Next:*** [[topics/earlysilent\|Before Moving Pictures]] 

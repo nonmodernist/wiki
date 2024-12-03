@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"title":"Early Silent Films","permalink":"/topics/earlysilent/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T19:07:41.779-06:00","updated":"2024-12-02T19:08:35.454-06:00"}
+{"dg-publish":true,"title":"Early Silent Films","permalink":"/topics/earlysilent/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T19:07:41.779-06:00","updated":"2024-12-02T20:37:07.384-06:00"}
 ---
-
 
 Louis Le Prince patented a multi-lens motion picture camera in 1888 and, later that year, created a single-lens version. The camera used paper film stock. Le Prince filmed at least four short motion pictures in 1888; these are currently considered the oldest surviving motion pictures.
 
