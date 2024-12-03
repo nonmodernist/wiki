@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Folk horror","permalink":"/topics/folkhorror/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T20:49:07.649-06:00","updated":"2024-12-02T21:22:09.482-06:00"}
+{"dg-publish":true,"title":"Folk horror","permalink":"/topics/folkhorror/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T20:49:07.649-06:00","updated":"2024-12-02T21:41:36.188-06:00"}
 ---
 
 **Folk horror** is a genre of film and fiction that uses elements of folklore to invoke fear and foreboding.
@@ -13,7 +13,7 @@ As the editors of *Folk Horror: New Global Pathways* explain, “folk horror der
 
 ## 🎥 Folk horror films
 
-> [!see]
+> [!seealso] See also
 > [[fhf-list\|List of folk horror films by year.]]
 
 In 2021, Kier-La Janisse and Severin Films released an extensive documentary about the history of folk horror, titled *Woodlands Dark and Days Bewitched*, along with an accompanying boxset called *All the Haunts Be Ours*, which contains 20 feature films. In 2024, Severin Films followed this up with *All the Haunts Be Ours* volume 2, containing 24 feature films. Both boxsets also contain a wealth of special features, including interviews, short films, and more.
@@ -24,7 +24,7 @@ In 2021, Kier-La Janisse and Severin Films released an extensive documentary abo
 
 Folk horror stories often take place in rural communities and locations, such as **villages**[^1] or very **small towns**,[^2] **farms** and **fields**,[^3] **forests**,[^4] or **islands**.[^5]
 
-[^1]: For example, in |white-reindeer|_ (1952, Finland), *Satan's Feats in the Village of Leva-e-Traz* (1967, Brazil), *Leptirica* (1973, Yugoslavia), *The Dark Secret of Harvest Home* (1978, US), *The Witch* (2015, US).
+[^1]: For example, in *The White Reindeer* (1952, Finland), *Satan's Feats in the Village of Leva-e-Traz* (1967, Brazil), *Leptirica* (1973, Yugoslavia), *The Dark Secret of Harvest Home* (1978, US), *The Witch* (2015, US).
 [^2]: *The Wailing* (2016, South Korea), *When Evil Lurks* (2023, Argentina).
 [^3]: *Crowhaven Farm* (1970, US), *Blood on Satan's Claw* (1971, UK), *Children of the Corn* (1984, US), *A Field in England* (2013, UK).
 [^4]: Kuroneko (1968, Japan), Eyes of Fire (1983, US), The Enchanted (1984), The Blair Witch Project (1999, US), Roh (2019, Malaysia).
@@ -81,7 +81,6 @@ Other forms of folk magic, including **hoodoo** (often mistakenly referred to as
 
 [^21]: *Woodlands Dark and Days Bewitched: A History of Folk Horror*. Severin Films, 2021, dir. by Kier-La Janisse.
 
-  
 ### Cults
 
 Isolated religious communities develop **extreme beliefs and practices** in films like *Eye of the Devil* (1966, UK), *Crowhaven Farm* (1970, US), *The Wicker Man* (1972, UK), *Children of the Corn* (1984, US), *The Dark Secret of Harvest Home* (1978, US), *Alison's Birthday* (1981, Australia), *Apostle* (2018, US), *Midsommar* (2019, US), and *Incantation* (2022, Taiwan).

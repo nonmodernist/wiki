@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Before moving pictures","permalink":"/topics/prehistory/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T10:39:27.556-06:00","updated":"2024-12-02T20:37:53.372-06:00"}
+{"dg-publish":true,"title":"Before moving pictures","permalink":"/topics/prehistory/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T10:39:27.556-06:00","updated":"2024-12-02T21:38:33.666-06:00"}
 ---
 
 
@@ -12,7 +12,7 @@ Also known as “philosophical toys,” these objects represent some of the earl
 [^1]: I have a small collection of reproduction optical toys available for workshops and demonstrations. This collection was funded by a mini-grant from TCU's CDEx.
 
 - **Magic lanterns** use light shined through transparent colored material to project images onto a surface.
-- The [Phénakisticope](https://en.wikipedia.org/wiki/Phenakistiscope) (1832) is a disc with slits and a succession of images. When the disc is spun and the viewer looks through the slits into a mirror, the succession of images gives the [[apparent-motion\|appearance of a single moving image]].
+- The [Phénakisticope](https://en.wikipedia.org/wiki/Phenakistiscope) (1832) is a disc with slits and a succession of images. When the disc is spun and the viewer looks through the slits into a mirror, the succession of images gives the [[topics/Multimedia#🌀 Apparent motion\|appearance of a single moving image]].
 - The **zoetrope** (1834) operates on the same principle but removed the need for a mirror. Viewers look through slits in a rotating cylinder at images arranged around the inside.
 - The [Kinematoscope](https://www.filmsite.org/pre20sintro.html) (1861) had viewers look through slits at images on the blades of a rotating paddle, which was operated by a hand crank.
 - The **praxinoscope** (1877) improved on the zoetrope by using a set of mirrors to reflect the image, alleviating the need for the viewer to look through slits. This brightens the image.

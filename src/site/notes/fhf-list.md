@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"title":"List of folk horror films by year","dg-hide":true,"permalink":"/fhf-list/","hide":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T20:38:41.508-06:00","updated":"2024-12-02T20:44:43.597-06:00"}
+{"dg-publish":true,"title":"List of folk horror films by year","dg-hide":true,"permalink":"/fhf-list/","hide":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T20:38:41.508-06:00","updated":"2024-12-02T21:29:46.573-06:00"}
 ---
 
 
-| **Film**                                      | **Year** | **Country**         | **Notes**                                                     |
+| Film                                      | Year | Country         | Notes                                                     |
 | --------------------------------------------- | -------- | ------------------- | ------------------------------------------------------------- |
 | *The Phantom Carriage*                        | 1921     | Sweden              |                                                               |
 | *Häxan*                                       | 1922     | Sweden              |                                                               |
