@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/hello-world/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T08:15:19.604-06:00","updated":"2024-12-02T15:21:41.748-06:00"}
+{"dg-publish":true,"dg-home":true,"dg-pin":true,"permalink":"/hello-world/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T08:15:19.604-06:00","updated":"2024-12-02T20:48:32.227-06:00"}
 ---
 
 On this site you will find information and resources (mostly) related to the courses I teach. It is built to be somewhere between a wiki and a knowledge base. That means the site is continually growing and expanding, and it is intended for both my reference and yours. It also means that some pages and sections are unfinished.

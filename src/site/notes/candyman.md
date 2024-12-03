@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"title":"Candyman (1992)","permalink":"/candyman/","hide":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T15:23:15.789-06:00","updated":"2024-12-02T19:25:07.543-06:00"}
+{"dg-publish":true,"dg-hide":true,"title":"Candyman (1992)","permalink":"/candyman/","hide":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T15:23:15.789-06:00","updated":"2024-12-02T21:23:04.023-06:00"}
 ---
 
 > [!warning] Warning
@@ -9,7 +9,7 @@
 
 Based on Clive Barker's short story "The Forbidden", the film follows a Chicago graduate student completing a thesis on urban legends and folklore, which leads her to the legend of the "Candyman", the ghost of an African-American artist and son of a slave who was murdered in the late 19th century for his relationship with the daughter of a wealthy white man.
 
-With its narrative focus on folklore being collected by an outsider who has come into an isolated community, *Candyman* can be characterized as a [[folk horror\|folk horror]] film. Kier-La Janisse, in her documentary *Woodlands Dark and Days Bewitched*, explains, "Typically we would reserve the term folk horror for stories that take place in rural environments, but I think a strong case can be made for *Candyman* as a folk horror film because of its liminality, the pyscho-geographical pull of the Cabrini-Green housing project itself, and how that connects back to the Reconstruction-era folktale." [^1]
+With its narrative focus on folklore being collected by an outsider who has come into an isolated community, *Candyman* can be characterized as a [[topics/folkhorror\|folk horror]] film. Kier-La Janisse, in her documentary *Woodlands Dark and Days Bewitched*, explains, "Typically we would reserve the term folk horror for stories that take place in rural environments, but I think a strong case can be made for *Candyman* as a folk horror film because of its liminality, the pyscho-geographical pull of the Cabrini-Green housing project itself, and how that connects back to the Reconstruction-era folktale." [^1]
 
 [^1]: *Woodlands Dark and Days Bewitched: A History of Folk Horror*. Severin Films, 2021, dir. by Kier-La Janisse.
 

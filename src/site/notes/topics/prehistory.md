@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Before moving pictures","permalink":"/topics/prehistory/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T10:39:27.556-06:00","updated":"2024-12-02T20:32:32.104-06:00"}
+{"dg-publish":true,"title":"Before moving pictures","permalink":"/topics/prehistory/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T10:39:27.556-06:00","updated":"2024-12-02T20:37:53.372-06:00"}
 ---
 
 
@@ -58,4 +58,4 @@ In the 1870s and 1880s, Thomas Edison and other inventors worked out various way
 
 By the late 1880s, all of the major components necessary for the invention of moving pictures were in place.
 
-***Next:*** [[topics/earlysilent\|Before Moving Pictures]] 
+***Next:*** [[topics/earlysilent\|Before moving pictures]] 
