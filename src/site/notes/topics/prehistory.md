@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Before moving pictures","permalink":"/topics/prehistory/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T10:39:27.556-06:00","updated":"2024-12-03T11:52:56.267-06:00"}
+{"dg-publish":true,"title":"Before moving pictures","permalink":"/topics/prehistory/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T10:39:27.556-06:00","updated":"2024-12-05T10:34:10.749-06:00"}
 ---
 
 
@@ -41,12 +41,19 @@ In the 1870s, photographer Eadweard Muybridge was hired by Leland Stanford to ph
 
 [^4]: Rebecca Solnit. *River of Shadows: Eadweard Muybridge and the Technological Wild West*. Viking, 2003.
 
+![muybridge.gif](/img/user/attachments/muybridge.gif)
+***An animated gif created from a series of still images taken by Muybridge in 1887. A black jockey rides a black horse.***[^5]
+
+[^5]: You might recognize this sequence of photographs from Jordan Peele’s Nope (2022). He took a bit of [creative license with the history](https://archive.ph/9HBEB).
+
 Muybridge spent another 10 years photographing animals and humans in motion. He also invented the [[topics/prehistory#🔮 Optical toys\|zoopraxiscope]] to demonstrate moving illustrations based on his photographs. Because the zoopraxiscope caused image distortion when projected, the photographs had to be recreated as illustrations that compensated for this foreshortening effect.
 
-![muybridge.gif](/img/user/attachments/muybridge.gif)
-***An animated gif created from a series of still images taken by Muybridge in 1887. A black jockey rides a black horse.***
-
 Meanwhile, in 1882, Étienne-Jules Marey devised a means of taking 12 photographs per second, using a mechanism that looked like a gun. He was soon able to push this up to 30 frames per second. Unlike Muybridge's motion studies, which used separate cameras to photograph onto separate plates, Marey's use of a single camera allowed him to expose multiple images on the same glass plate or strip of photographic paper.
+
+![chronophoto.png](/img/user/attachments/chronophoto.png)
+***Chronophotographic study of horse motion by Marey, 1886. Because the images were all taken on the same plate, they overlap and create a "ghosting" effect.***
+
+In 1889, George Eastman's photography company began selling a flexible celluloid film stock that was more durable than paper. Eastman's company also created the first film roll system and the sprocket holes that allow film to be advanced inside the camera.  
 
 ## ▶️ Sound recording and playback
 
@@ -54,9 +61,9 @@ The earliest known device for recording sound, called the phonautograph, was inv
 
 According to Wikipedia:
 
-> Apparently, it did not occur to anyone before the 1870s that the recordings, called phonautograms, contained enough information about the sound that they could, in theory, be used to recreate it. Because the phonautogram tracing was an insubstantial two-dimensional line, direct physical playback was impossible in any case. However, several phonautograms recorded before 1861 were successfully played as sound in 2008 by optically scanning them and using a computer to process the scans into digital audio files.[^5]
+> Apparently, it did not occur to anyone before the 1870s that the recordings, called phonautograms, contained enough information about the sound that they could, in theory, be used to recreate it. Because the phonautogram tracing was an insubstantial two-dimensional line, direct physical playback was impossible in any case. However, several phonautograms recorded before 1861 were successfully played as sound in 2008 by optically scanning them and using a computer to process the scans into digital audio files.[^6]
 
-  [^5]: "[Phonautograph](https://en.wikipedia.org/wiki/Phonautograph)." Wikipedia. For videos demonstrating how this was accomplished, see "[Humanity's first recording of its own voice](https://www.youtube.com/playlist?list=PLy5nynGqE9jNdrKswEjr81obPhGAHgMFm)." First Sounds, 2014.
+  [^6]"[Phonautograph](https://en.wikipedia.org/wiki/Phonautograph)." Wikipedia. For videos demonstrating how this was accomplished, see "[Humanity's first recording of its own voice](https://www.youtube.com/playlist?list=PLy5nynGqE9jNdrKswEjr81obPhGAHgMFm)." First Sounds, 2014.
 
 In the 1870s and 1880s, Thomas Edison and other inventors worked out various ways to both record sound and play it back, by scratching grooves into soft materials and then retracing those grooves while amplifying the resulting vibrations.
 
@@ -64,4 +71,4 @@ In the 1870s and 1880s, Thomas Edison and other inventors worked out various way
 
 By the late 1880s, all of the major components necessary for the invention of moving pictures were in place.
 
-***Next:*** [[topics/earlysilent\|Before moving pictures]] 
+***Next:*** [[topics/earlysilent\|Early silent film]] 

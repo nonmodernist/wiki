@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/multimedia/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T21:30:22.239-06:00","updated":"2024-12-03T11:07:17.647-06:00"}
+{"dg-publish":true,"permalink":"/topics/multimedia/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T21:30:22.239-06:00","updated":"2024-12-05T10:34:50.637-06:00"}
 ---
 
 **Multimedia** refers to the integration of multiple forms of media, such as text, audio, images, video, and interactive elements, into a single platform or application.
@@ -22,10 +22,10 @@ Another way to categorize multimedia is according to linearity: some multimedia 
 
 Despite being technologically distinct, animation, film, and video all rely on one essential principle: **apparent motion**. When similar images are shown in quick succession, human eyes and brains interpret the multiple images as a single, apparently moving image.
 
+![motion.gif](/img/user/attachments/motion.gif)
+***An example of apparent motion using multiple images displayed in quick succession. Art by [Julia Schimautz](https://www.instagram.com/p/DBtXHlICZCL/?img_index=7).***
 
-
-
-Apparent motion is the principle behind many [[topics/prehistory\|optical toys]] and other forms of early animation, as well as the [[topics/prehistory#📷 Photography\|earliest experiments in moving pictures]] conducted by [[Eadweard Muybridge\|Eadweard Muybridge]], [[Louis Le Prince\|Louis Le Prince]], and others.
+Apparent motion is the principle behind many [[topics/prehistory\|optical toys]] and other forms of early animation, as well as the [[topics/prehistory#📷 Photography\|earliest experiments in moving pictures]] conducted by Eadweard Muybridge, Louis Le Prince, and others.
 
 ### 🖲️ Hypertext
 
